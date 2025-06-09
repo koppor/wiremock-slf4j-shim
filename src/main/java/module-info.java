@@ -1,4 +1,4 @@
-module wiremock.slf4j.shim.main {
+module wiremock.slf4j.shim {
     exports wiremock.org.slf4j.spi;
     exports wiremock.org.slf4j.helpers;
 
