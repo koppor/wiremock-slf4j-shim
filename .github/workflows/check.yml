@@ -23,7 +23,7 @@ jobs:
       - name: Install Gradle
         uses: gradle/actions/setup-gradle@v3
         with:
-          gradle-version: 8.13.2
+          gradle-version: 8.14.2
 
       - run: gradle install
 
