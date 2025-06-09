@@ -8,5 +8,5 @@ Workaround for [wiremock#2480](https://github.com/wiremock/wiremock/issues/2480)
 It should also work with [JitPack](https://jitpack.io/):
 
 ```kotlin
-testImplementation("com.github.koppor:wiremock-slf4j-shim:main-SNAPSHOT')
+testImplementation("com.github.koppor:wiremock-slf4j-shim:main-SNAPSHOT")
 ```
