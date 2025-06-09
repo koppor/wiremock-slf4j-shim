@@ -7,10 +7,12 @@ group = "com.github.koppor"
 
 repositories {
     mavenCentral()
+    maven { url = uri("https://jitpack.io") }
 }
 
 dependencies {
     implementation("org.slf4j:slf4j-api:2.0.13")
+    implementation("com.github.koppor:wiremock-slf4j-spi-shim:main-SNAPSHOT")
 }
 
 java {
