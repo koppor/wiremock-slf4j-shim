@@ -1,4 +1,4 @@
-# Wiremock workaround
+# Wiremock workaround [![](https://jitpack.io/v/koppor/wiremock-slf4j-shim.svg)](https://jitpack.io/#koppor/wiremock-slf4j-shim)
 
 Workaround for [wiremock#2480](https://github.com/wiremock/wiremock/issues/2480)
 
